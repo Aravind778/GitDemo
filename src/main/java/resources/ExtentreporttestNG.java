@@ -18,6 +18,10 @@ public class ExtentreporttestNG {
 		extent.attachReporter(reporter);
 		extent.setSystemInfo("Tester","Rahul");
 		return extent;
+//		extent =new ExtentReports();
+//		extent.attachReporter(reporter);
+//		extent.setSystemInfo("Tester","Rahul");
+//		return extent;
 	}
 
 }

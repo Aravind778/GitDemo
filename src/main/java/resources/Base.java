@@ -31,9 +31,17 @@ public class Base {
 	    {
 	    	//firefox code
 	    	//we should write firefox code
+	    	//firefox code
+	    	//we should write firefox code
+	    	//firefox code
+	    	//we should write firefox code
 	    }
 	    if(browserName.equals("ie"))
 	    {
+	    	//ie code
+	    	//we should write ie code
+	    	//ie code
+	    	//we should write ie code
 	    	//ie code
 	    	//we should write ie code
 	    }
