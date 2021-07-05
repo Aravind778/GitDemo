@@ -30,10 +30,12 @@ public class Base {
 	    else if(browserName.equals("firefox"))
 	    {
 	    	//firefox code
+	    	//we should write firefox code
 	    }
 	    if(browserName.equals("ie"))
 	    {
 	    	//ie code
+	    	//we should write ie code
 	    }
 	    driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
 	    driver.manage().window().maximize();
