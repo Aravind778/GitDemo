@@ -60,17 +60,17 @@ public class Homepage extends Base{
 	{
 		driver.close();
 	}
-//	@AfterTest
+//	@AfterTest1
 //	public void tearDown()
 //	{
 //		driver.close();
 //	}
-//	@AfterTest
+//	@AfterTest2
 //	public void tearDown()
 //	{
 //		driver.close();
 //	}
-//	@AfterTest
+//	@AfterTest3
 //	public void tearDown()
 //	{
 //		driver.close();
